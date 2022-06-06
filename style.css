@@ -1,0 +1,20 @@
+*{
+    scroll-behavior: smooth;
+}
+
+
+#contact{
+    background: crimson;
+}
+#about{
+    background-color: cadetblue;
+    border: 2px solid green;
+}
+#interests{
+    background-color: tomato;
+    border:2px solid black;
+}
+
+#title{
+    color:red;
+}
